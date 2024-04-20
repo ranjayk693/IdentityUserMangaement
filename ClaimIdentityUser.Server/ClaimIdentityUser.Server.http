@@ -1,0 +1,6 @@
+@ClaimIdentityUser.Server_HostAddress = http://localhost:5201
+
+GET {{ClaimIdentityUser.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

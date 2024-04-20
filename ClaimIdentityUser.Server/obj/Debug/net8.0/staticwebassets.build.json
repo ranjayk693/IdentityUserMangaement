@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fpj4o2GjO1ofupo2JNaQ4fE8mGd/VsHbmLxV+yIgInw=",
+  "Source": "ClaimIdentityUser.Server",
+  "BasePath": "_content/ClaimIdentityUser.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
